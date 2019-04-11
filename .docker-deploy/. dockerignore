@@ -1,0 +1,17 @@
+# comment
+*/temp*
+*/*/temp*
+temp?
+tools/
+test.sh
+k8s.sh
+meteorforever.sh
+.DS_store
+.local/
+
+*.sh
+*.json
+*.conf
+*.txt
+
+mongodb/
